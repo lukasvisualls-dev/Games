@@ -46,20 +46,6 @@
         "players": 2
       }
     },
-    "minecraft": {
-      "version": "1.2.0",
-      "kind": "web",
-      "entry": "index.html",
-      "url": "https://github.com/lukasvisualls/Games/releases/download/games-amigos-2026-10-21/minecraft.zip",
-      "sha256": "458456be7531757035bf9253b3cd1fb5f8616860a0a74d5303a6148bc346a41f",
-      "size": 315480,
-      "multiplayer": "none",
-      "friendMultiplayer": {
-        "protocol": 1,
-        "minJarvis": "2.1.149",
-        "players": 2
-      }
-    },
     "nitro-rush": {
       "version": "1.1.1",
       "kind": "web",
